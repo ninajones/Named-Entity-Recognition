@@ -5,6 +5,9 @@ Named Entity Recognition involves identifying portions of text representing labe
 
 This repository contains the scripts you need to use deep learning to identify various entities in Medium articles and present them in useful way.
 
+## Language Used
+Python3
+
 ## Dependencies
 jupyter=1.0.0
 
