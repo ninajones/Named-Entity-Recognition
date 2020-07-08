@@ -7,15 +7,25 @@ Named Entity Recognition involves identifying portions of text representing labe
 jupyter=1.0.0
 
 jupyter_client=6.1.2
+
 jupyter_console=6.1.0
+
 jupyter_core=4.6.3
+
 keras=2.1.6
+
 keras-applications=1.0.8
+
 keras-preprocessing=1.1.0
+
 matplotlib=3.2.1
+
 matplotlib-base=3.2.1
+
 nltk==3.4.5
+
 numpy==1.18.2
+
 pandas=1.0.3
 pickle-mixin==1.0.2
 python=3.6.10
