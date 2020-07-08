@@ -5,6 +5,7 @@ Named Entity Recognition involves identifying portions of text representing labe
 
 ## Dependencies
 jupyter=1.0.0
+
 jupyter_client=6.1.2
 jupyter_console=6.1.0
 jupyter_core=4.6.3
