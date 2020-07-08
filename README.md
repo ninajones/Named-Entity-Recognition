@@ -1,9 +1,9 @@
 # Named-Entity-Recognition
 
-About
+## About
 Named Entity Recognition involves identifying portions of text representing labels such as geographical location, geopolitical entity, persons, etc. In this tutorial, we will use deep learning to identify various entities in Medium articles and present them in useful way.
 
-Dependencies
+## Dependencies
 jupyter=1.0.0
 jupyter_client=6.1.2
 jupyter_console=6.1.0
@@ -25,7 +25,8 @@ tensorboard==1.8.0
 tensorflow==1.8.0
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.3.0
-How to Use
+
+## How to Use
 Option #1:
 Run Train_NER_Model.ipynb in a directory with this dataset. Save the outputs (the model weights and generated tags) in the same directory as Train_NER_Model.ipynb. Then run NER.ipynb in the same directory.
 
