@@ -1,7 +1,9 @@
 # Named-Entity-Recognition
 
 ## About
-Named Entity Recognition involves identifying portions of text representing labels such as geographical location, geopolitical entity, persons, etc. In this tutorial, we will use deep learning to identify various entities in Medium articles and present them in useful way.
+Named Entity Recognition involves identifying portions of text representing labels such as geographical location, geopolitical entity, persons, etc. 
+
+This repository contains the scripts you need to use deep learning to identify various entities in Medium articles and present them in useful way.
 
 ## Dependencies
 jupyter=1.0.0
@@ -27,14 +29,23 @@ nltk==3.4.5
 numpy==1.18.2
 
 pandas=1.0.3
+
 pickle-mixin==1.0.2
+
 python=3.6.10
+
 scikit-learn=0.22.2.post1
+
 scipy==1.4.1
+
 sklearn==0.0
+
 tensorboard==1.8.0
+
 tensorflow==1.8.0
+
 tensorflow-estimator==2.1.0
+
 tensorflow-hub==0.3.0
 
 ## How to Use
