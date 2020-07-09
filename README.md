@@ -52,8 +52,8 @@ tensorflow-estimator==2.1.0
 tensorflow-hub==0.3.0
 
 ## How to Use
-Option #1:
+### Option #1:
 Run Train_NER_Model.ipynb in a directory with this dataset. Save the outputs (the model weights and generated tags) in the same directory as Train_NER_Model.ipynb. Then run NER.ipynb in the same directory.
 
-Option #2:
+### Option #2:
 Run Train_NER_Model.ipynb in Jupyter Notebook. Create a new project in an IDE such as PyCharm. Save this dataset, main.py, clean.py, entity_recognition.py, and the outputs from Train_NER_Model.ipynb in the same project directory. Run main.py.
